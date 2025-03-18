@@ -1,14 +1,14 @@
 
     h1{
  color: white;
-backgroud-color: slategray;
+backgroud-color: white;
  font-size: 20px;
   text-decoration: underline;
     font-family: arial;
      text-align: center;
  }
     p{ 
-     color: slategray;
+     color: white;
      text-align: right;
      line-height: 30px;
      letter-spacing: 3px;
